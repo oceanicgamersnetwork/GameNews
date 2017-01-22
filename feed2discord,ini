@@ -1,0 +1,6 @@
+[MAIN]
+# 0 just prints some basic info as thing runs
+# 1 prints debug stuff for this bot
+# 2 and above start printing debug stuff for libraries, etc
+# 4 and above includes full parsed items, which can be quite verbose...
+debug = 0
